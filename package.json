@@ -1,0 +1,18 @@
+{
+  "name": "atom-oceanic-next-italic",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Customized Oceanic Next syntax theme with italic flavors",
+  "keywords": [
+    "syntax",
+    "theme",
+    "oceanic next",
+    "italic",
+    "operator mono"
+  ],
+  "repository": "https://github.com/AndrewKishino/atom-oceanic-next-italic.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
